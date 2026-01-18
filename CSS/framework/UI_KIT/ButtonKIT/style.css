@@ -1,0 +1,124 @@
+.btn-bluis,.btn-primary{padding:10px 24px;font-size:1.2rem;cursor:pointer;transition:opacity .2s;color:#fff}.btn-primary{background-color:#f7982d;border-radius:9999px;border:none}.btn-bluis{background-color:#287bc3;border-radius:9999px;border:none}.btn-danger,.btn-dark,.btn-outline,.btn-success{padding:10px 24px;font-size:1.1rem}.btn-success{background-color:#22c55e;color:#fff;border-radius:8px;border:none;cursor:pointer}.btn-danger,.btn-ghost{border-radius:8px;cursor:pointer}.btn-danger{background-color:#ef4444;color:#fff;border:none}.btn-dark{background-color:#1f2937;color:#fff;border-radius:6px;border:none;cursor:pointer}.btn-outline{background-color:transparent;color:#3b82f6;border:2px solid #3b82f6;border-radius:9999px;cursor:pointer}.btn-gradient{padding:12px 28px;background:linear-gradient(45deg,#8b5cf6,#ec4899);color:#fff;border-radius:12px;font-size:1.1rem;border:none;cursor:pointer}.btn-ghost,.btn-glass,.btn-soft{padding:10px 24px;font-size:1.1rem}.btn-ghost{background-color:#f3f4f6;color:#374151;border:none}.btn-soft{background-color:#dbeafe;color:#1e40af;border-radius:8px;border:none;cursor:pointer}.btn-glass,.btn-premium-1,.btn-premium-2{color:#fff;cursor:pointer}.btn-glass{background-color:rgba(255,255,255,.2);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.3);border-radius:9999px}.btn-premium-1,.btn-premium-2,.btn-premium-3,.btn-premium-4,.btn-premium-5,.btn-premium-6,.btn-premium-7{padding:12px 28px}.btn-premium-1{background:linear-gradient(135deg,#6366f1 0,#a855f7 100%);border:none;border-radius:12px;font-weight:600;box-shadow:0 4px 15px rgba(99,102,241,.4)}.btn-premium-2{background:#000;border:1px solid #333;border-radius:8px;text-transform:uppercase;letter-spacing:1px;box-shadow:0 0 20px rgba(255,255,255,.1)}.btn-premium-3{background:#fff;color:#1a1a1a;border:1px solid #e2e8f0;border-radius:9999px;font-weight:500;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.1)}.btn-premium-4{background:#0ea5e9;color:#fff;border:none;border-radius:4px;font-weight:700;cursor:pointer;border-bottom:4px solid #0369a1}.btn-premium-5{background:#fdf2f8;color:#db2777;border:1px solid #fbcfe8;border-radius:12px;font-weight:600;cursor:pointer}.btn-premium-6{background:#111827;color:#10b981;border:1px solid #10b981;border-radius:8px;font-family:monospace;cursor:pointer}.btn-premium-7{background:radial-gradient(circle at top left,#ffedd5,#fdba74);color:#9a3412;border:none;border-radius:16px;font-weight:800;cursor:pointer}.btn-premium-8,.btn-premium-9{color:#fff;cursor:pointer;padding:12px 28px}.btn-premium-8{background:0 0;border:2px solid transparent;border-image:linear-gradient(to right,#4facfe 0%,#00f2fe 100%);border-image-slice:1}.btn-premium-9{background:#7c3aed;border-radius:0 20px;border:none;font-weight:600}.btn-premium-10{padding:12px 28px;background:#fff;color:#4b5563;border:none;border-radius:8px;cursor:pointer;box-shadow:inset 0 -4px 0 #e5e7eb}.btn-premium-11{padding:12px 28px;background:#dc2626;color:#fff;border-radius:50px;border:none;font-weight:500;cursor:pointer;outline:rgba(220,38,38,.2) solid 4px}.btn-premium-12{padding:12px 28px;background:#000;color:#fbbf24;border:2px solid #fbbf24;border-radius:4px;font-weight:900;font-style:italic;cursor:pointer}.btn-premium-13{padding:12px 28px;background:rgba(255,255,255,.1);color:#fff;backdrop-filter:blur(15px);border:1px solid rgba(255,255,255,.2);border-radius:12px;cursor:pointer}.btn-premium-14{padding:12px 28px;background:#f8fafc;color:#0f172a;border:1px solid #e2e8f0;border-radius:8px;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);cursor:pointer}.btn-premium-15{padding:12px 28px;background:#ec4899;color:#fff;border:none;border-radius:9999px;box-shadow:0 0 25px rgba(236,72,153,.5);cursor:pointer}.btn-premium-16{padding:12px 28px;background:#1e293b;color:#94a3b8;border-radius:6px;border:none;font-weight:400;cursor:pointer}.btn-premium-17{padding:12px 28px;background:#166534;color:#dcfce7;border-radius:8px;border:none;cursor:pointer}.btn-premium-18{padding:12px 28px;background:#fff;color:#1e40af;border:2px dashed #1e40af;border-radius:10px;font-weight:600;cursor:pointer}.btn-premium-19{padding:12px 28px;background:#2dd4bf;color:#042f2e;border-radius:2px;clip-path:polygon(10% 0%,100% 0%,90% 100%,0% 100%);border:none;font-weight:700;cursor:pointer}.btn-premium-20,.btn-pro-1,.btn-pro-2{font-weight:600;cursor:pointer}.btn-premium-20{padding:12px 28px;background:#eef2ff;color:#4338ca;border:2px solid #c7d2fe;border-radius:14px}.btn-pro-1,.btn-pro-2,.btn-pro-4{padding:12px 24px}.btn-pro-1{background:#007bff;color:#fff;border:none;border-radius:4px}.btn-pro-2{background:#fff;color:#007bff;border:2px solid #007bff;border-radius:4px}.btn-pro-3{padding:14px 28px;background:#111827;color:#fff;border-radius:8px;font-size:1rem;border:none;cursor:pointer;box-shadow:0 4px 6px -1px rgba(0,0,0,.1)}.btn-pro-4{background:#f3f4f6;color:#1f2937;border:1px solid #d1d5db;border-radius:6px;font-weight:500;cursor:pointer}.btn-pro-5,.btn-pro-7{font-weight:600;padding:12px 24px;cursor:pointer}.btn-pro-5{background:linear-gradient(to right,#2563eb,#7c3aed);color:#fff;border:none;border-radius:9999px}.btn-pro-6{padding:12px 24px;background:#10b981;color:#fff;border:none;border-radius:6px;box-shadow:0 4px 0 #059669;cursor:pointer}.btn-pro-7{background:0 0;color:#4f46e5;border-bottom:2px solid #4f46e5;border-radius:0}.btn-pro-8{padding:12px 24px;background:#fff;color:#374151;border:1px solid #e5e7eb;border-radius:12px;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);cursor:pointer}.btn-pro-9{padding:10px 20px;background:#ef4444;color:#fff;border-radius:9999px;font-weight:500;border:none;cursor:pointer}.btn-pro-10,.btn-pro-11{padding:12px 24px;cursor:pointer}.btn-pro-10{background:#000;color:#fff;border-radius:2px;letter-spacing:2px;text-transform:uppercase;border:none}.btn-pro-11{background:#fafafa;color:#171717;border:1px solid #d4d4d4;border-radius:8px}.btn-pro-12{padding:14px 30px;background:#6366f1;color:#fff;border-radius:12px;border:1px solid rgba(255,255,255,.2);cursor:pointer}.btn-pro-13,.btn-pro-14,.btn-pro-15,.btn-pro-16,.btn-pro-17,.btn-pro-18{padding:12px 24px}.btn-pro-13{background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;border-radius:6px;cursor:pointer}.btn-pro-14{background:#0ea5e9;color:#fff;border-radius:0 15px;border:none;font-weight:600;cursor:pointer}.btn-pro-15{background:#fbbf24;color:#78350f;border-radius:8px;font-weight:700;border:none;cursor:pointer}.btn-pro-16{background:#fff;border:1px solid #000;color:#000;border-radius:0;font-weight:500;cursor:pointer}.btn-pro-17{background:#4b5563;color:#fff;border-radius:9999px;border:none;cursor:pointer}.btn-pro-18{background:rgba(0,0,0,.05);color:#000;border:none;border-radius:8px;cursor:pointer}.btn-pro-19,.btn-pro-20{padding:12px 24px;color:#fff;cursor:pointer}.btn-pro-19{background:#8b5cf6;border-radius:4px;box-shadow:inset 0 2px 4px rgba(0,0,0,.2);border:none}.btn-pro-20{background:#db2777;border-radius:20px 5px;border:none}.btn-pro-21{padding:10px 20px;background:#2dd4bf;color:#134e4a;border-radius:6px;font-weight:600;border:none;cursor:pointer}.btn-pro-22,.btn-pro-23,.btn-pro-24,.btn-pro-25,.btn-pro-26,.btn-pro-27,.btn-pro-28,.btn-pro-29,.btn-pro-30{padding:12px 24px;cursor:pointer}.btn-pro-22{background:#f8fafc;color:#475569;border:1px solid #e2e8f0;border-radius:9999px}.btn-pro-23{background:#f97316;color:#fff;border-radius:10px;border:none}.btn-pro-24{background:#1e293b;color:#f1f5f9;border-radius:8px;border:1px solid #334155}.btn-pro-25{background:#fff;color:#16a34a;border:1px solid #16a34a;border-radius:4px}.btn-pro-26{background:#e11d48;color:#fff;border-radius:12px;border:none;font-weight:600}.btn-pro-27{background:#312e81;color:#e0e7ff;border-radius:6px;border:none}.btn-pro-28{background:#fff;color:#000;border:3px solid #000;font-weight:800;border-radius:0}.btn-pro-29{background:#a855f7;color:#fff;border-radius:9999px;box-shadow:0 0 15px rgba(168,85,247,.4);border:none}.btn-pro-30{background:#f1f5f9;color:#0f172a;border-radius:8px;font-weight:500;border:none}
+
+/* KalonCSS Hover & Active States */
+.btn-primary:hover,.btn-bluis:hover,.btn-success:hover,.btn-danger:hover,.btn-dark:hover,.btn-pro-1:hover,.btn-pro-3:hover,.btn-pro-5:hover,.btn-pro-9:hover,.btn-pro-10:hover,.btn-pro-12:hover,.btn-pro-17:hover,.btn-pro-19:hover,.btn-pro-20:hover,.btn-pro-23:hover,.btn-pro-24:hover,.btn-pro-26:hover,.btn-pro-27:hover{opacity:.9;transform:translateY(-1px)}.btn-outline:hover{background:#3b82f6;color:#fff}.btn-ghost:hover{background:#e5e7eb}.btn-soft:hover{background:#bfdbfe}.btn-glass:hover{background:rgba(255,255,255,.3)}.btn-premium-1:hover,.btn-premium-15:hover,.btn-premium-29:hover{box-shadow:0 8px 20px rgba(0,0,0,.2);transform:translateY(-2px)}.btn-premium-2:hover{background:#1f2937;border-color:#4b5563}.btn-premium-3:hover{background:#f8fafc;border-color:#cbd5e1}.btn-premium-4:hover{border-bottom-width:2px;transform:translateY(1px)}.btn-premium-8:hover{background:linear-gradient(to right,#4facfe,#00f2fe);border-image:none;color:#fff}.btn-premium-10:hover{box-shadow:inset 0 -2px 0 #e5e7eb;transform:translateY(1px)}.btn-pro-2:hover,.btn-pro-8:hover,.btn-pro-11:hover,.btn-pro-13:hover,.btn-pro-16:hover,.btn-pro-18:hover,.btn-pro-22:hover,.btn-pro-25:hover,.btn-pro-28:hover,.btn-pro-30:hover{background:#f1f5f9;transform:translateY(-1px)}button:active{transform:scale(.97)!important;transition:.1s}
+
+/* 1. Ultra Neon */
+.btn-pro-ultra-neon {
+    background: transparent !important;
+    color: #fff !important;
+    border: 2px solid #ff0000 !important;
+    box-shadow: 0 0 10px #ff0000, inset 0 0 8px #ff0000 !important;
+    text-transform: uppercase !important;
+    padding: 14px 32px !important;
+    border-radius: 10px !important;
+    font-weight: 700 !important;
+    transition: 0.4s !important;
+}
+
+/* 2. Glass Morph */
+.btn-pro-glass-morph {
+    background: rgba(255, 255, 255, 0.05) !important;
+    backdrop-filter: blur(15px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    color: #ffffff !important;
+    padding: 14px 32px !important;
+    border-radius: 15px !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3) !important;
+}
+
+/* 3. Cyber Punch */
+.btn-pro-cyber-punch {
+    background: #ffffff !important;
+    color: #000000 !important;
+    padding: 14px 35px !important;
+    clip-path: polygon(0% 0%, 90% 0%, 100% 30%, 100% 100%, 10% 100%, 0% 70%) !important;
+    border: none !important;
+    font-weight: 900 !important;
+}
+
+/* 4. Liquid Flow */
+.btn-pro-liquid-flow {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) !important;
+    background-size: 400% 400% !important;
+    color: #fff !important;
+    padding: 14px 32px !important;
+    border-radius: 50px !important;
+    border: none !important;
+    animation: flowGradient 10s ease infinite !important;
+}
+
+/* 5. Magma Edge */
+.btn-pro-magma-edge {
+    background: #000 !important;
+    color: #ff3333 !important;
+    padding: 14px 32px !important;
+    border-radius: 6px !important;
+    border: 1px solid #222 !important;
+    box-shadow: 0 4px 0px #660000 !important;
+}
+
+/* 6. Ghost Reveal */
+.btn-pro-ghost-reveal {
+    background: transparent !important;
+    color: #ffffff !important;
+    padding: 14px 32px !important;
+    border-radius: 8px !important;
+    border: 2px solid #ffffff !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+/* 7. Titanium Gloss */
+.btn-pro-titanium-gloss {
+    background: linear-gradient(to bottom, #777 0%, #333 50%, #111 51%, #444 100%) !important;
+    color: #fff !important;
+    padding: 14px 32px !important;
+    border-radius: 8px !important;
+    border: 1px solid #000 !important;
+}
+
+/* 8. Stellar Orbit */
+.btn-pro-stellar-orbit {
+    background: #050505 !important;
+    color: #00f2fe !important;
+    padding: 14px 32px !important;
+    border-radius: 5px !important;
+    border: 1px solid #00f2fe !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+/* 9. Phantom Depth */
+.btn-pro-phantom-depth {
+    background: #222 !important;
+    color: #fff !important;
+    padding: 14px 32px !important;
+    border-radius: 12px !important;
+    border: none !important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5) !important;
+}
+
+/* 10. Kinetic Shimmer */
+.btn-pro-kinetic-shimmer {
+    background-color: #000 !important;
+    border-radius: 12px !important;
+    border: 2px solid transparent !important;
+    background-image: linear-gradient(#000, #000), linear-gradient(90deg, red, #ff0, red) !important;
+    background-origin: border-box;
+    background-clip: content-box, border-box !important;
+}
+@keyframes flowGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+/* Bsic Property*/
+button:focus-visible {
+  outline: 3px solid #3b82f6;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.5);
+}
+
+/* UI Button By KalonCSS, for frotend devoloper*/
+/* server 95197823 */
