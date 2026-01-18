@@ -1,0 +1,295 @@
+.btn-primary:hover {
+    background-color: #fbbf24;
+    box-shadow: 0 0 20px rgba(247, 152, 45, 0.5);
+    transform: translateY(-2px);
+}
+.btn-bluis:hover {
+    background-color: #3189d6;
+    box-shadow: 0 8px 25px rgba(40, 123, 195, 0.4);
+    transform: translateY(-2px);
+}
+.btn-success:hover {
+    background-color: #1edb6d;
+    box-shadow: 0 8px 20px rgba(34, 197, 94, 0.3);
+    transform: translateY(-2px);
+}
+.btn-danger:hover {
+    background-color: #f87171;
+    box-shadow: 0 8px 20px rgba(239, 68, 68, 0.3);
+    transform: translateY(-2px);
+}
+.btn-dark:hover {
+    background-color: #374151;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(-2px);
+}
+.btn-outline:hover {
+    background-color: #3b82f6;
+    color: #fff;
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
+}
+.btn-gradient:hover {
+    filter: saturate(1.3) brightness(1.1);
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 15px 30px rgba(139, 92, 246, 0.4);
+}
+.btn-ghost:hover {
+    background-color: #f3f4f6;
+    transform: translateX(3px);
+}
+.btn-soft:hover {
+    background-color: #c3ddfd;
+    transform: translateY(-1px);
+}
+.btn-glass:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(15px);
+}
+.btn-premium-1:hover {
+    background: linear-gradient(135deg, #4f46e5 0%, #9333ea 100%);
+    box-shadow: 0 10px 25px rgba(99, 102, 241, 0.5);
+    transform: translateY(-3px);
+}
+.btn-premium-2:hover {
+    background: #111;
+    border-color: #fbbf24;
+    color: #fbbf24;
+    box-shadow: 0 0 20px rgba(251, 191, 36, 0.2);
+}
+.btn-premium-3:hover {
+    background: #f8fafc;
+    border-color: #3b82f6;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+.btn-premium-4:hover {
+    border-bottom-width: 0;
+    transform: translateY(4px);
+    background-color: #0284c7;
+}
+.btn-premium-5:hover {
+    background: #fdf2f8;
+    box-shadow: 0 4px 15px rgba(219, 39, 119, 0.1);
+}
+.btn-premium-6:hover {
+    background: #10b981;
+    color: #000;
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.4);
+}
+.btn-premium-7:hover {
+    filter: contrast(1.1);
+    transform: scale(1.03);
+}
+.btn-premium-8:hover {
+    border-image-source: linear-gradient(to left, #4facfe, #00f2fe);
+    box-shadow: 0 0 15px rgba(79, 172, 254, 0.3);
+}
+.btn-premium-9:hover {
+    border-radius: 20px 20px;
+    background: #6d28d9;
+    transform: translateY(-2px);
+}
+.btn-premium-10:hover {
+    box-shadow: inset 0 -2px 0 #e5e7eb, 0 5px 15px rgba(0,0,0,0.05);
+}
+.btn-premium-11:hover {
+    box-shadow: 0 0 0 6px rgba(220, 38, 38, 0.1);
+    background: #ef4444;
+}
+.btn-premium-12:hover {
+    letter-spacing: 2px;
+    background: #fbbf24;
+    color: #000;
+}
+.btn-premium-13:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-2px);
+}
+.btn-premium-14:hover {
+    background: #fff;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+.btn-premium-15:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
+.btn-premium-16:hover {
+    background: #0f172a;
+    color: #fff;
+}
+.btn-premium-17:hover {
+    background: #15803d;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+.btn-premium-18:hover {
+    border-style: solid;
+    background: #f0f9ff;
+}
+.btn-premium-19:hover {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    background: #14b8a6;
+}
+.btn-premium-20:hover {
+    background: #c7d2fe;
+    color: #3730a3;
+}
+.btn-pro-1:hover {
+    background: #2563eb;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+.btn-pro-2:hover {
+    background: #eff6ff;
+    transform: translateY(-1px);
+}
+.btn-pro-3:hover {
+    background: #1f2937;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+}
+.btn-pro-4:hover {
+    background: #e5e7eb;
+}
+.btn-pro-5:hover {
+    background: linear-gradient(to left, #2563eb, #7c3aed);
+    box-shadow: 0 8px 20px rgba(124, 58, 237, 0.3);
+}
+.btn-pro-6:hover {
+    box-shadow: 0 2px 0 #059669;
+    transform: translateY(2px);
+}
+.btn-pro-7:hover {
+    color: #4338ca;
+    padding-bottom: 2px;
+}
+.btn-pro-8:hover {
+    background: #fff;
+    border-color: #d1d5db;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.08);
+}
+.btn-pro-9:hover {
+    transform: scale(1.1);
+    background: #dc2626;
+}
+.btn-pro-10:hover {
+    background: #222;
+    letter-spacing: 3px;
+}
+.btn-pro-11:hover {
+    background: #f5f5f5;
+    transform: scale(0.98);
+}
+.btn-pro-12:hover {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+}
+.btn-pro-13:hover {
+    background: #fecaca;
+}
+.btn-pro-14:hover {
+    border-radius: 15px 15px;
+    background: #0284c7;
+}
+.btn-pro-15:hover {
+    background: #f59e0b;
+    box-shadow: 0 5px 15px rgba(251, 191, 36, 0.4);
+}
+.btn-pro-16:hover {
+    background: #000;
+    color: #fff;
+    box-shadow: 4px 4px 0 #ddd;
+}
+.btn-pro-17:hover {
+    background: #374151;
+}
+.btn-pro-18:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+.btn-pro-19:hover {
+    box-shadow: inset 0 4px 8px rgba(0,0,0,0.1);
+    transform: translateY(1px);
+}
+.btn-pro-20:hover {
+    border-radius: 5px 20px;
+    filter: hue-rotate(45deg);
+}
+.btn-pro-21:hover {
+    background: #5eead4;
+}
+.btn-pro-22:hover {
+    background: #fff;
+    border-color: #cbd5e1;
+}
+.btn-pro-23:hover {
+    background: #ea580c;
+    box-shadow: 0 8px 16px rgba(249, 115, 22, 0.3);
+}
+.btn-pro-24:hover {
+    background: #334155;
+}
+.btn-pro-25:hover {
+    background: #f0fdf4;
+}
+.btn-pro-26:hover {
+    background: #9f1239;
+    transform: scale(1.05);
+}
+.btn-pro-27:hover {
+    background: #3730a3;
+    box-shadow: 0 0 15px rgba(49, 46, 129, 0.5);
+}
+.btn-pro-28:hover {
+    background: #000;
+    color: #fff;
+}
+.btn-pro-29:hover {
+    box-shadow: 0 0 25px rgba(168, 85, 247, 0.6);
+}
+.btn-pro-30:hover {
+    background: #e2e8f0;
+}
+.btn-pro-ultra-neon:hover {
+    box-shadow: 0 0 30px #ff0000, 0 0 60px rgba(255, 0, 0, 0.4) !important;
+    transform: scale(1.05) !important;
+}
+.btn-pro-glass-morph:hover {
+    background: rgba(255, 255, 255, 0.12) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
+    transform: translateY(-3px) !important;
+}
+.btn-pro-cyber-punch:hover {
+    background: #f00 !important;
+    color: #fff !important;
+    box-shadow: -5px 5px 0 #000 !important;
+}
+.btn-pro-liquid-flow:hover {
+    animation-duration: 2s !important;
+    transform: scale(1.05) translateY(-2px);
+}
+.btn-pro-magma-edge:hover {
+    box-shadow: 0 0px 0px #660000 !important;
+    transform: translateY(4px) !important;
+    background: #111 !important;
+}
+.btn-pro-ghost-reveal:hover {
+    background: #fff !important;
+    color: #000 !important;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.4) !important;
+}
+.btn-pro-titanium-gloss:hover {
+    background: linear-gradient(to top, #777 0%, #333 50%, #111 51%, #444 100%) !important;
+}
+.btn-pro-stellar-orbit:hover {
+    background: #00f2fe !important;
+    color: #000 !important;
+    box-shadow: 0 0 30px #00f2fe !important;
+}
+.btn-pro-phantom-depth:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.6) !important;
+}
+.btn-pro-kinetic-shimmer:hover {
+    background-image: linear-gradient(#000, #000), linear-gradient(180deg, #ff0, red) !important;
+}
+button:active {
+    transform: scale(0.96) translateY(1px) !important;
+    transition: 0.1s !important;
+}
